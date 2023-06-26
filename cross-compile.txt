@@ -1,0 +1,6 @@
+aarch64-none-linux-gnu-gcc (GNU Toolchain for the A-profile Architecture 10.2-2020.11 (arm-10.16)) 10.2.1 20201103
+Copyright © 2020 Free Software Foundation, Inc.
+Ce logiciel est un logiciel libre; voir les sources pour les conditions de copie.  Il n'y a
+AUCUNE GARANTIE, pas même pour la COMMERCIALISATION ni L'ADÉQUATION À UNE TÂCHE PARTICULIÈRE.
+
+/home/ubuntu/Documents/ARM-GCC/install-lnx/gcc-arm-10.2-2020.11-x86_64-aarch64-none-linux-gnu/bin/../aarch64-none-linux-gnu/libc
